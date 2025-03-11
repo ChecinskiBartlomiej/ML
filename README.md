@@ -1,1 +1,1 @@
-[# UM](https://gitlab.uw.edu.pl/python-tools/shell)
+https://en.wikipedia.org/wiki/Expectation–maximization_algorithm

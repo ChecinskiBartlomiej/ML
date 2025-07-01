@@ -12,4 +12,4 @@ Homework assignments from the Machine Learning course at the Faculty of Mathemat
 10.https://github.com/ChecinskiBartlomiej/UM/blob/main/UM_hw_10.ipynb
 11.https://github.com/ChecinskiBartlomiej/UM/blob/main/UM_hw_11.ipynb
 12.https://colab.research.google.com/github/ChecinskiBartlomiej/ML/blob/main/UM_hw_12.ipynb
-
+13.https://github.com/ChecinskiBartlomiej/ML/blob/main/UM_hw_13.ipynb
